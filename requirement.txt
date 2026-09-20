@@ -1,6 +1,7 @@
-tensorflow
-tensorflow-datasets
-numpy
-Pillow
 streamlit
+tensorflow
+keras
+numpy
+pandas
+pillow
 streamlit-drawable-canvas
